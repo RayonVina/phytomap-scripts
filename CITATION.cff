@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived version using the metadata below."
+type: software
+authors:
+  - family-names: "Rayón Viña"
+    given-names: "Fernando"
+    orcid: "https://orcid.org/0000-0002-1622-2180"
+title: "Phyto-MAP data-processing scripts"
+version: "v1.0.0"
+date-released: "2026-10-13"
+doi: "10.5281/zenodo.23351063"
+repository-code: "https://github.com/RayonVina/phytomap-scripts"
+url: "https://zenodo.org/records/23351063"
+license: "MIT"
