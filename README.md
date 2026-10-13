@@ -133,10 +133,17 @@ The collection has been reviewed and edited by its author. That review is not a 
 
 The code collection is distributed under the MIT License; see `LICENSE`. Existing third-party notices and permissions must be preserved where applicable. This licence does not apply to the separately distributed database or excluded source data.
 
-Please cite the archived code version when referring to this collection, and cite the dataset separately when using Phyto-MAP data. The final archive identifiers will be added when the repositories and deposits are published:
+Please cite the archived code version when referring to this collection, and cite the dataset separately when using Phyto-MAP data.
 
-- Code repository: [PENDIENTE].
-- Archived code version and tag: [PENDIENTE].
-- Version-specific code DOI and full citation: [PENDIENTE].
+- Code repository: [RayonVina/phytomap-scripts](https://github.com/RayonVina/phytomap-scripts).
+- Archived code version: [v1.0.0](https://github.com/RayonVina/phytomap-scripts/releases/tag/v1.0.0).
+- Version-specific code DOI: [10.5281/zenodo.23351063](https://doi.org/10.5281/zenodo.23351063).
 
-The dataset is distributed separately. This code archive does not include the database or original input data. The corresponding Git commit will be identified in the release or archive metadata rather than embedded as the hash of the README-containing commit.
+Suggested citation:
+
+Rayón Viña, F. (2026). *Phyto-MAP data-processing scripts*
+(v1.0.0) [Software]. Zenodo.
+https://doi.org/10.5281/zenodo.23351063
+
+The dataset is distributed separately. This code archive does not include
+the database or original input data.
