@@ -2,7 +2,7 @@
 
 <!-- badges: start -->
 [![Version: v1.0.1](https://img.shields.io/badge/version-v1.0.1-blue.svg)](https://github.com/RayonVina/phytomap-scripts/releases/tag/v1.0.1)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23351063.svg)](https://doi.org/10.5281/zenodo.23351063)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23351062.svg)](https://doi.org/10.5281/zenodo.23351062)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/RayonVina/phytomap-scripts/blob/main/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/RayonVina/phytomap-scripts?style=flat-square&color=b4befe)](https://github.com/RayonVina/phytomap-scripts/commits/main/)
 <!-- badges: end -->
