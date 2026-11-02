@@ -135,8 +135,7 @@ The code collection is distributed under the MIT License; see `LICENSE`. Existin
 
 Please cite the archived code version when referring to this collection, and cite the dataset separately when using Phyto-MAP data. The final archive identifiers will be added when the repositories and deposits are published:
 
-- Code repository: [PENDIENTE].
-- Archived code version and tag: [PENDIENTE].
-- Version-specific code DOI and full citation: [PENDIENTE].
+- Code repository: https://github.com/RayonVina/phytomap-scripts
+- Code DOI and full citation: https://doi.org/10.5281/zenodo.23351062
 
 The dataset is distributed separately. This code archive does not include the database or original input data. The corresponding Git commit will be identified in the release or archive metadata rather than embedded as the hash of the README-containing commit.

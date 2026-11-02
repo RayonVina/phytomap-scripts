@@ -131,7 +131,7 @@ CREATE TABLE
     parvphylum TEXT, gigaclass TEXT, superclass TEXT, 
     class TEXT, subclass TEXT, infraclass TEXT, 
     subterclass TEXT, superorder TEXT, 
-    taxon_order TEXT, suborder TEXT, infraorder TEXT, 
+    "order" TEXT, suborder TEXT, infraorder TEXT, 
     parvorder TEXT, superfamily TEXT, 
     family TEXT, subfamily TEXT, tribe TEXT, 
     genus TEXT, subgenus TEXT, section TEXT, 
@@ -508,7 +508,7 @@ UPDATE
   infraclass, 
   subterclass, 
   superorder, 
-  taxon_order, 
+  "order", 
   suborder, 
   infraorder, 
   parvorder, 
@@ -1479,7 +1479,7 @@ SELECT
   phylum, subphylum, infraphylum, parvphylum, 
   gigaclass, superclass, class, subclass, 
   infraclass, subterclass, superorder, 
-  taxon_order, suborder, infraorder, 
+  "order", suborder, infraorder, 
   parvorder, superfamily, family, subfamily, 
   tribe, genus, subgenus, section, subsection, 
   species, subspecies, variety, forma, 
@@ -1985,7 +1985,7 @@ SELECT
   tx.infraclass, 
   tx.subterclass, 
   tx.superorder, 
-  tx.taxon_order, 
+  tx."order", 
   tx.suborder, 
   tx.infraorder, 
   tx.parvorder, 
@@ -2173,7 +2173,7 @@ SELECT
       OR r.infraclass IS NOT p.t_infraclass 
       OR r.subterclass IS NOT p.t_subterclass 
       OR r.superorder IS NOT p.t_superorder 
-      OR r.taxon_order IS NOT p.t_order 
+      OR r."order" IS NOT p.t_order 
       OR r.suborder IS NOT p.t_suborder 
       OR r.infraorder IS NOT p.t_infraorder 
       OR r.parvorder IS NOT p.t_parvorder 
